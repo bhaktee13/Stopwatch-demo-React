@@ -7,3 +7,6 @@ It supports start, stop, and reset functions, and displays hours, minutes, secon
 -Displays time in "HH:MM:SS:MS" format
 -Uses React hooks ('useState', 'useEffect', 'useRef') for smooth and accurate timing 
 -Easy to understand and extend 
+
+#Live demo
+[View it here](https://bhaktee13.github.io/Stopwatch-demo-React/)
